@@ -25,6 +25,8 @@ build/Release
 
 # Dependency directory
 node_modules
+music
+pic
 
 # Optional npm cache directory
 .npm
@@ -34,3 +36,7 @@ node_modules
 
 # config data
 config.js
+
+
+
+*.swp
